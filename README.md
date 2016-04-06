@@ -1,5 +1,7 @@
 # hubot-groupme-http
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Connect Hubot to a GroupMe group, using GroupMe's (undocumented, not-really-public) HTTP(S) API.
 
 ## Alternative
